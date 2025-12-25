@@ -13,11 +13,12 @@ Here are a few things I've picked up along my learning journey.
 
 - Frontend : <br />
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 
 - Backend : <br />
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![MySQL C Connector](https://img.shields.io/badge/-MySQLConnector-05122A?style=flat&logo=mysql)
 
 - Tool : <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
