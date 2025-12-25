@@ -1,6 +1,7 @@
-## 📊 Statistics
+## 📊 Statistics     [![wakatime](https://wakatime.com/badge/user/19e446ff-bd01-4aa7-9c19-e8c010eca53e.svg)](https://wakatime.com/@19e446ff-bd01-4aa7-9c19-e8c010eca53e)
 
-[![wakatime](https://wakatime.com/badge/user/19e446ff-bd01-4aa7-9c19-e8c010eca53e.svg)](https://wakatime.com/@19e446ff-bd01-4aa7-9c19-e8c010eca53e)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nixaa-git&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=nixaa-git&theme=github_dark)
 
 ## 🧰 Tech Stack
 
