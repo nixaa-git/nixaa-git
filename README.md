@@ -8,6 +8,7 @@ Here are a few things I've picked up along my learning journey.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=1572B6)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
