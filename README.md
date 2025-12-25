@@ -1,3 +1,7 @@
+## 📊 Statistics
+
+[![wakatime](https://wakatime.com/badge/user/19e446ff-bd01-4aa7-9c19-e8c010eca53e.svg)](https://wakatime.com/@19e446ff-bd01-4aa7-9c19-e8c010eca53e)
+
 ## 🧰 Tech Stack
 
 Here are a few things I've picked up along my learning journey.
